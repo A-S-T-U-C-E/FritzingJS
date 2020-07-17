@@ -43,7 +43,9 @@ Copyright (C) 2020 Sébastien CANET [scanet@libreduc.cc](mailto:scanet@libreduc.
 -   You may obtain a copy of the License at [https://www.gnu.org/licenses/#AGPL](https://www.gnu.org/licenses/#AGPL).
 
 
-![enter image description here](https://avatars0.githubusercontent.com/u/8562144?s=200&v=4)
+
+![Frtzing logo](https://raw.githubusercontent.com/fritzing/fritzing-app/develop/resources/images/fritzing_logo_background.png)
+
 All graphics and documentation of [Fritzing](https://github.com/fritzing) parts are licensed under Creative Commons Attribution-ShareALike 3.0 Unported.
 
 See http://creativecommons.org/licenses/by-sa/3.0/ for the full description.
